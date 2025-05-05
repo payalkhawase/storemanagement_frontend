@@ -14,7 +14,6 @@ function ViewProducts() {
              }
          })
   }
-
   useEffect(getAllProducts , []);
 
   function deleteProduct(id){
