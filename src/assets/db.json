@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "productName": "realme 11 pro",
+      "category": "smart phone",
+      "description": "16 gb ram ",
+      "supplier": "realme pvlt",
+      "price": "21000",
+      "quantity": "100",
+      "instock": true,
+      "id": "6bc0"
+    },
+    {
+      "id": "7547",
+      "productName": "pen",
+      "category": "stationary",
+      "description": "ball pen",
+      "supplier": "cello",
+      "price": "20",
+      "quantity": "1000"
+    },
+    {
+      "id": "23d4",
+      "productName": "laptop",
+      "category": "electronics",
+      "description": "gaming laptop",
+      "supplier": "Hp pvlt",
+      "price": "65000",
+      "quantity": "100",
+      "instock": true
+    }
+  ]
+}
